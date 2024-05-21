@@ -1,4 +1,4 @@
-      Hi there👋🏻, I'm Rishi
+         Hi there👋🏻, I'm Rishi
 - 👀 I’m interested in Development 
 - 🌱 I’m currently learning Python ML, Full Stack and App Development
 - 📫 How to reach me chaturvedi0718@gmail.com
